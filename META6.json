@@ -1,8 +1,8 @@
 {
-  "name"        : "NCurses",
-  "version"     : "*",
+  "name"        : "NCurses6",
+  "version"     : "0.0.1",
   "perl"        : "6.c",
-  "description" : "Perl 6 interface to NCurses, the text-based interface libary",
+  "description" : "Perl 6 interface to NCurses6, the text-based interface libary",
   "depends"     : [ ],
   "provides"    : {
     "NCurses6"	  : "lib/NCurses6.pm6"

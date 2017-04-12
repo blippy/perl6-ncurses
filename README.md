@@ -1,4 +1,4 @@
-# NCurses [![Build Status](https://travis-ci.org/azawawi/perl6-ncurses6.svg?branch=master)](https://travis-ci.org/azawawi/perl6-ncurses6)
+# NCurses6 [![Build Status](https://travis-ci.org/azawawi/perl6-ncurses6.svg?branch=master)](https://travis-ci.org/azawawi/perl6-ncurses6)
 
 NCurses6 provides a Perl 6 interface to libncurses .
 
@@ -37,7 +37,7 @@ $ sudo apt-get install libncurses6
 * Using panda (a module management tool bundled with Rakudo Star):
 
 ```
-$ panda update && panda install NCurses
+$ panda update && panda install NCurses6
 ```
 
 ## Environment variables
