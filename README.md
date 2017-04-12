@@ -1,6 +1,6 @@
-# NCurses [![Build Status](https://travis-ci.org/azawawi/perl6-ncurses.svg?branch=master)](https://travis-ci.org/azawawi/perl6-ncurses)
+# NCurses [![Build Status](https://travis-ci.org/azawawi/perl6-ncurses6.svg?branch=master)](https://travis-ci.org/azawawi/perl6-ncurses6)
 
-NCurses provides a Perl 6 interface to libncurses.
+NCurses6 provides a Perl 6 interface to libncurses .
 
 ## Example
 
@@ -27,11 +27,11 @@ For more examples, please see the [examples](examples) folder.
 
 ## Installation
 
-* Since NCurses uses libncurses, libncurses.so must be found in /usr/lib.
+* Since NCurses6 uses libncurses version6, libncurses.so must be found in /usr/lib.
 To install libncurses on Debian for example, please use the following command:
 
 ```
-$ sudo apt-get install libncurses5
+$ sudo apt-get install libncurses6
 ```
 
 * Using panda (a module management tool bundled with Rakudo Star):
@@ -56,6 +56,7 @@ $ prove -e "perl6 -Ilib"
 ## Author
 
 Ahmad M. Zawawi, azawawi on #perl6, https://github.com/azawawi/
+Mark Carterm https://github.com/blippy/
 
 ## License
 
