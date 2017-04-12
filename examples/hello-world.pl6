@@ -2,7 +2,7 @@
 use v6;
 
 use lib 'lib';
-use NCurses;
+use NCurses6;
 
 # Start curses mode
 my $win = initscr;
