@@ -7,7 +7,7 @@
 use v6;
 
 use lib 'lib';
-use NCurses;
+use NCurses6;
 
 constant numstars  = 100;
 constant screen-x  =  80;

@@ -5,6 +5,6 @@ use lib 'lib';
 
 plan 1;
 
-use NCurses;
+use NCurses6;
 
-ok 1, "'use NCurses' worked!";
+ok 1, "'use NCurses6' worked!";
